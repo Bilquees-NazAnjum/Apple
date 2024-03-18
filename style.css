@@ -1,0 +1,110 @@
+
+.heading{
+    padding: 0px 0px !important;
+} 
+
+
+.nav-link{
+    font-size: 15px !important; 
+    color: white !important;
+    z-index: 1;
+    position: sticky;
+    top: 0px;
+}
+
+.bg-image{
+    background-image: url(https://www.apple.com/v/iphone-15-pro/c/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png?202403071100);
+    height: 80vh;
+    
+    
+}
+
+
+.bg-image1{
+    background-image: url(https://assets.thehansindia.com/h-upload/2023/07/08/1363601-apple-iphone-15-pro.jpg);
+    height: 80vh;
+    
+}
+
+
+.bg-image2{
+    background-image: url(https://hackster.imgix.net/uploads/attachments/1672798/image_eP7Dxftyxh.png?auto=compress%2Cformat&w=830&h=466.875&fit=min&dpr=1.25);
+    height: 100vh;
+    
+}
+.rrr{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: top !important;
+    flex-direction: column;
+    padding-top: 50px !important;
+    height: 100%;
+   background-size: cover !important;
+
+}
+
+.sss{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: end !important;
+    flex-direction: column;
+    padding-top: 50px !important;
+    height: 100%;
+    background-size: cover !important;
+
+}
+a{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+ 
+.ttt{
+    background-image: url(https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/tile/Apple-Watch-S9-hero-230912.jpg.og.jpg?202402191141);
+     height: 100vh;  
+    
+} 
+
+
+.uuu{
+    background-image: url(images/1.jpg);
+    background-size: cover;
+     height: 100vh;  
+     background-repeat: no-repeat;
+    
+} 
+
+.vvv{
+    background-image: url(images/2.jpg);
+     height: 100vh;  
+    
+} 
+
+.www{
+    background-image: url(https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-Pro_New-Design_102819_big.jpg.large.jpg);
+     height: 100vh;  
+    
+} 
+
+
+.xxx{
+    background-image: url(https://www.apple.com/newsroom/images/product/apple-card/standard/Apple-Card-available-today-Apple-Card-082019_inline.jpg.large.jpg);
+     height: 100vh;  
+    
+} 
+
+.yyy{
+    background-image: url(https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-50-tradein-202309_FMT_WHH?wid=618&hei=900&fmt=p-jpg&qlt=95&.v=1692912409096);
+     height: 100vh;  
+    
+} 
+.aaa{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: top !important;
+    flex-direction: column;
+    padding-top: 50px !important;
+    height: 100%;
+  
+
+}
